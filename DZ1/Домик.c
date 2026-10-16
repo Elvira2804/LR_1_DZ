@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int home();
+
 int main()
 {
 	home();
