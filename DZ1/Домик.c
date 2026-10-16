@@ -3,6 +3,8 @@
 int main()
 {
 	home();
+
+	return 0;
 }
 
 int home() {
